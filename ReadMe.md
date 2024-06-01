@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AZ
-- AZE
 - Azerbaijan
 - Azerbaiyán
 - Azerbaïdjan
