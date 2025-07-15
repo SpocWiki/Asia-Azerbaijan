@@ -40,11 +40,18 @@ markerFolder: ./Abşeron/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron|Abşeron]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron.public|Abşeron.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron.internal|Abşeron.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron.protect|Abşeron.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron.private|Abşeron.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron.personal|Abşeron.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Abşeron.secret|Abşeron.secret]] 
+
+### #is_/same_as :: [Abşeron](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.md) 
+
+### #is_/same_as :: [Abşeron.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.public.md) 
+
+### #is_/same_as :: [Abşeron.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.internal.md) 
+
+### #is_/same_as :: [Abşeron.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.protect.md) 
+
+### #is_/same_as :: [Abşeron.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.private.md) 
+
+### #is_/same_as :: [Abşeron.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.personal.md) 
+
+### #is_/same_as :: [Abşeron.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Abşeron.secret.md)
 

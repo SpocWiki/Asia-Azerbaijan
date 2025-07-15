@@ -40,11 +40,18 @@ markerFolder: ./Qobustan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan|Qobustan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan.public|Qobustan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan.internal|Qobustan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan.protect|Qobustan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan.private|Qobustan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan.personal|Qobustan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qobustan.secret|Qobustan.secret]] 
+
+### #is_/same_as :: [Qobustan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.md) 
+
+### #is_/same_as :: [Qobustan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.public.md) 
+
+### #is_/same_as :: [Qobustan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.internal.md) 
+
+### #is_/same_as :: [Qobustan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.protect.md) 
+
+### #is_/same_as :: [Qobustan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.private.md) 
+
+### #is_/same_as :: [Qobustan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.personal.md) 
+
+### #is_/same_as :: [Qobustan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Qobustan.secret.md)
 

@@ -39,11 +39,18 @@ markerFolder: ./Qax/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax|Qax]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax.public|Qax.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax.internal|Qax.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax.protect|Qax.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax.private|Qax.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax.personal|Qax.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qax.secret|Qax.secret]] 
+
+### #is_/same_as :: [Qax](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.md) 
+
+### #is_/same_as :: [Qax.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.public.md) 
+
+### #is_/same_as :: [Qax.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.internal.md) 
+
+### #is_/same_as :: [Qax.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.protect.md) 
+
+### #is_/same_as :: [Qax.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.private.md) 
+
+### #is_/same_as :: [Qax.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.personal.md) 
+
+### #is_/same_as :: [Qax.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Qax.secret.md)
 

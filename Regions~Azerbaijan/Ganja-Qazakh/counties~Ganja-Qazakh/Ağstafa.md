@@ -40,11 +40,18 @@ markerFolder: ./Ağstafa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa|Ağstafa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa.public|Ağstafa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa.internal|Ağstafa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa.protect|Ağstafa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa.private|Ağstafa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa.personal|Ağstafa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağstafa.secret|Ağstafa.secret]] 
+
+### #is_/same_as :: [Ağstafa](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.md) 
+
+### #is_/same_as :: [Ağstafa.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.public.md) 
+
+### #is_/same_as :: [Ağstafa.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.internal.md) 
+
+### #is_/same_as :: [Ağstafa.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.protect.md) 
+
+### #is_/same_as :: [Ağstafa.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.private.md) 
+
+### #is_/same_as :: [Ağstafa.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.personal.md) 
+
+### #is_/same_as :: [Ağstafa.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Ağstafa.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Naftalan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan|Naftalan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan.public|Naftalan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan.internal|Naftalan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan.protect|Naftalan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan.private|Naftalan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan.personal|Naftalan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naftalan.secret|Naftalan.secret]] 
+
+### #is_/same_as :: [Naftalan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.md) 
+
+### #is_/same_as :: [Naftalan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.public.md) 
+
+### #is_/same_as :: [Naftalan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.internal.md) 
+
+### #is_/same_as :: [Naftalan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.protect.md) 
+
+### #is_/same_as :: [Naftalan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.private.md) 
+
+### #is_/same_as :: [Naftalan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.personal.md) 
+
+### #is_/same_as :: [Naftalan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Naftalan.secret.md)
 

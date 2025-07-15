@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Mardakert|Mardakert]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mardakert.public|Mardakert.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mardakert.internal|Mardakert.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mardakert.protect|Mardakert.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mardakert.private|Mardakert.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mardakert.personal|Mardakert.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mardakert.secret|Mardakert.secret]] 
+
+### #is_/same_as :: [Mardakert](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.md) 
+
+### #is_/same_as :: [Mardakert.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.public.md) 
+
+### #is_/same_as :: [Mardakert.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.internal.md) 
+
+### #is_/same_as :: [Mardakert.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.protect.md) 
+
+### #is_/same_as :: [Mardakert.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.private.md) 
+
+### #is_/same_as :: [Mardakert.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.personal.md) 
+
+### #is_/same_as :: [Mardakert.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Tərtər/City/Mardakert.secret.md)
+

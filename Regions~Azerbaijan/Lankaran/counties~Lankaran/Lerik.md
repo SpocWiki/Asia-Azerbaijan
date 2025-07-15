@@ -40,11 +40,18 @@ markerFolder: ./Lerik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik|Lerik]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik.public|Lerik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik.internal|Lerik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik.protect|Lerik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik.private|Lerik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik.personal|Lerik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lerik.secret|Lerik.secret]] 
+
+### #is_/same_as :: [Lerik](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.md) 
+
+### #is_/same_as :: [Lerik.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.public.md) 
+
+### #is_/same_as :: [Lerik.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.internal.md) 
+
+### #is_/same_as :: [Lerik.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.protect.md) 
+
+### #is_/same_as :: [Lerik.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.private.md) 
+
+### #is_/same_as :: [Lerik.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.personal.md) 
+
+### #is_/same_as :: [Lerik.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Lerik.secret.md)
 

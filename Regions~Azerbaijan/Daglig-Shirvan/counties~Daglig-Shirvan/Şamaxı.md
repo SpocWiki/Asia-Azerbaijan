@@ -40,11 +40,18 @@ markerFolder: ./Şamaxı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı|Şamaxı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı.public|Şamaxı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı.internal|Şamaxı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı.protect|Şamaxı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı.private|Şamaxı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı.personal|Şamaxı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şamaxı.secret|Şamaxı.secret]] 
+
+### #is_/same_as :: [Şamaxı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.md) 
+
+### #is_/same_as :: [Şamaxı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.public.md) 
+
+### #is_/same_as :: [Şamaxı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.internal.md) 
+
+### #is_/same_as :: [Şamaxı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.protect.md) 
+
+### #is_/same_as :: [Şamaxı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.private.md) 
+
+### #is_/same_as :: [Şamaxı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.personal.md) 
+
+### #is_/same_as :: [Şamaxı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Balakən/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən|Balakən]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən.public|Balakən.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən.internal|Balakən.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən.protect|Balakən.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən.private|Balakən.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən.personal|Balakən.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Balakən.secret|Balakən.secret]] 
+
+### #is_/same_as :: [Balakən](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.md) 
+
+### #is_/same_as :: [Balakən.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.public.md) 
+
+### #is_/same_as :: [Balakən.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.internal.md) 
+
+### #is_/same_as :: [Balakən.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.protect.md) 
+
+### #is_/same_as :: [Balakən.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.private.md) 
+
+### #is_/same_as :: [Balakən.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.personal.md) 
+
+### #is_/same_as :: [Balakən.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Balakən.secret.md)
 

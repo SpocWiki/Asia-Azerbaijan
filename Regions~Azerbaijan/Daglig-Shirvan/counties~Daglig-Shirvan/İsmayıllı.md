@@ -40,11 +40,18 @@ markerFolder: ./İsmayıllı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı|İsmayıllı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.public|İsmayıllı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.internal|İsmayıllı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.protect|İsmayıllı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.private|İsmayıllı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.personal|İsmayıllı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/İsmayıllı.secret|İsmayıllı.secret]] 
+
+### #is_/same_as :: [İsmayıllı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.md) 
+
+### #is_/same_as :: [İsmayıllı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.public.md) 
+
+### #is_/same_as :: [İsmayıllı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.internal.md) 
+
+### #is_/same_as :: [İsmayıllı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.protect.md) 
+
+### #is_/same_as :: [İsmayıllı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.private.md) 
+
+### #is_/same_as :: [İsmayıllı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.personal.md) 
+
+### #is_/same_as :: [İsmayıllı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/İsmayıllı.secret.md)
 

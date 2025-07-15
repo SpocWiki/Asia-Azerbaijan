@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku|Baku]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku.public|Baku.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku.internal|Baku.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku.protect|Baku.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku.private|Baku.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku.personal|Baku.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/City/Baku.secret|Baku.secret]] 
+
+### #is_/same_as :: [Baku](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.md) 
+
+### #is_/same_as :: [Baku.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.public.md) 
+
+### #is_/same_as :: [Baku.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.internal.md) 
+
+### #is_/same_as :: [Baku.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.protect.md) 
+
+### #is_/same_as :: [Baku.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.private.md) 
+
+### #is_/same_as :: [Baku.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.personal.md) 
+
+### #is_/same_as :: [Baku.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı/City/Baku.secret.md)
+

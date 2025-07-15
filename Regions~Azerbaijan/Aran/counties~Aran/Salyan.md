@@ -40,11 +40,18 @@ markerFolder: ./Salyan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan|Salyan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan.public|Salyan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan.internal|Salyan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan.protect|Salyan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan.private|Salyan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan.personal|Salyan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Salyan.secret|Salyan.secret]] 
+
+### #is_/same_as :: [Salyan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.md) 
+
+### #is_/same_as :: [Salyan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.public.md) 
+
+### #is_/same_as :: [Salyan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.internal.md) 
+
+### #is_/same_as :: [Salyan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.protect.md) 
+
+### #is_/same_as :: [Salyan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.private.md) 
+
+### #is_/same_as :: [Salyan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.personal.md) 
+
+### #is_/same_as :: [Salyan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Salyan.secret.md)
 

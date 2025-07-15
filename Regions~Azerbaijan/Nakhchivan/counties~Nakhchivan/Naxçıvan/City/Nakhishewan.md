@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.2,45.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nakhishewan|Nakhishewan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nakhishewan.public|Nakhishewan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nakhishewan.internal|Nakhishewan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nakhishewan.protect|Nakhishewan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nakhishewan.private|Nakhishewan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nakhishewan.personal|Nakhishewan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nakhishewan.secret|Nakhishewan.secret]] 
+
+### #is_/same_as :: [Nakhishewan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.md) 
+
+### #is_/same_as :: [Nakhishewan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.public.md) 
+
+### #is_/same_as :: [Nakhishewan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.internal.md) 
+
+### #is_/same_as :: [Nakhishewan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.protect.md) 
+
+### #is_/same_as :: [Nakhishewan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.private.md) 
+
+### #is_/same_as :: [Nakhishewan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.personal.md) 
+
+### #is_/same_as :: [Nakhishewan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan/City/Nakhishewan.secret.md)
+

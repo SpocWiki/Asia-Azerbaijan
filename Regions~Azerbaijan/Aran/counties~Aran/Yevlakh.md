@@ -40,11 +40,18 @@ markerFolder: ./Yevlakh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh|Yevlakh]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh.public|Yevlakh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh.internal|Yevlakh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh.protect|Yevlakh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh.private|Yevlakh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh.personal|Yevlakh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh.secret|Yevlakh.secret]] 
+
+### #is_/same_as :: [Yevlakh](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.md) 
+
+### #is_/same_as :: [Yevlakh.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.public.md) 
+
+### #is_/same_as :: [Yevlakh.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.internal.md) 
+
+### #is_/same_as :: [Yevlakh.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.protect.md) 
+
+### #is_/same_as :: [Yevlakh.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.private.md) 
+
+### #is_/same_as :: [Yevlakh.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.personal.md) 
+
+### #is_/same_as :: [Yevlakh.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh.secret.md)
 

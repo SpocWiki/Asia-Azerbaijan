@@ -40,11 +40,18 @@ markerFolder: ./Samux/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux|Samux]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux.public|Samux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux.internal|Samux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux.protect|Samux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux.private|Samux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux.personal|Samux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Samux.secret|Samux.secret]] 
+
+### #is_/same_as :: [Samux](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.md) 
+
+### #is_/same_as :: [Samux.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.public.md) 
+
+### #is_/same_as :: [Samux.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.internal.md) 
+
+### #is_/same_as :: [Samux.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.protect.md) 
+
+### #is_/same_as :: [Samux.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.private.md) 
+
+### #is_/same_as :: [Samux.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.personal.md) 
+
+### #is_/same_as :: [Samux.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Samux.secret.md)
 

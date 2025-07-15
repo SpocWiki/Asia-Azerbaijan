@@ -40,11 +40,18 @@ markerFolder: ./Shirvan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan|Shirvan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan.public|Shirvan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan.internal|Shirvan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan.protect|Shirvan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan.private|Shirvan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan.personal|Shirvan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Shirvan.secret|Shirvan.secret]] 
+
+### #is_/same_as :: [Shirvan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.md) 
+
+### #is_/same_as :: [Shirvan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.public.md) 
+
+### #is_/same_as :: [Shirvan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.internal.md) 
+
+### #is_/same_as :: [Shirvan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.protect.md) 
+
+### #is_/same_as :: [Shirvan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.private.md) 
+
+### #is_/same_as :: [Shirvan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.personal.md) 
+
+### #is_/same_as :: [Shirvan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Shirvan.secret.md)
 

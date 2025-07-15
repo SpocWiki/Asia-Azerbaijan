@@ -40,11 +40,18 @@ markerFolder: ./Ağdam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam|Ağdam]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.public|Ağdam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.internal|Ağdam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.protect|Ağdam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.private|Ağdam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.personal|Ağdam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdam.secret|Ağdam.secret]] 
+
+### #is_/same_as :: [Ağdam](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.md) 
+
+### #is_/same_as :: [Ağdam.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.public.md) 
+
+### #is_/same_as :: [Ağdam.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.internal.md) 
+
+### #is_/same_as :: [Ağdam.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.protect.md) 
+
+### #is_/same_as :: [Ağdam.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.private.md) 
+
+### #is_/same_as :: [Ağdam.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.personal.md) 
+
+### #is_/same_as :: [Ağdam.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Ağdam.secret.md)
 

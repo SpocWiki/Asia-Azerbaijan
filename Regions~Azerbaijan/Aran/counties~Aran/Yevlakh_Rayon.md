@@ -40,11 +40,18 @@ markerFolder: ./Yevlakh_Rayon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon|Yevlakh_Rayon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.public|Yevlakh_Rayon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.internal|Yevlakh_Rayon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.protect|Yevlakh_Rayon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.private|Yevlakh_Rayon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.personal|Yevlakh_Rayon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yevlakh_Rayon.secret|Yevlakh_Rayon.secret]] 
+
+### #is_/same_as :: [Yevlakh_Rayon](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.md) 
+
+### #is_/same_as :: [Yevlakh_Rayon.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.public.md) 
+
+### #is_/same_as :: [Yevlakh_Rayon.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.internal.md) 
+
+### #is_/same_as :: [Yevlakh_Rayon.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.protect.md) 
+
+### #is_/same_as :: [Yevlakh_Rayon.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.private.md) 
+
+### #is_/same_as :: [Yevlakh_Rayon.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.personal.md) 
+
+### #is_/same_as :: [Yevlakh_Rayon.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Yevlakh_Rayon.secret.md)
 

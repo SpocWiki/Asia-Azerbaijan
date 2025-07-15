@@ -40,11 +40,18 @@ markerFolder: ./Saatlı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı|Saatlı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı.public|Saatlı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı.internal|Saatlı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı.protect|Saatlı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı.private|Saatlı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı.personal|Saatlı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Saatlı.secret|Saatlı.secret]] 
+
+### #is_/same_as :: [Saatlı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.md) 
+
+### #is_/same_as :: [Saatlı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.public.md) 
+
+### #is_/same_as :: [Saatlı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.internal.md) 
+
+### #is_/same_as :: [Saatlı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.protect.md) 
+
+### #is_/same_as :: [Saatlı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.private.md) 
+
+### #is_/same_as :: [Saatlı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.personal.md) 
+
+### #is_/same_as :: [Saatlı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Saatlı.secret.md)
 

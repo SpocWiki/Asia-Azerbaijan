@@ -40,11 +40,18 @@ markerFolder: ./Füzuli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli|Füzuli]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli.public|Füzuli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli.internal|Füzuli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli.protect|Füzuli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli.private|Füzuli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli.personal|Füzuli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Füzuli.secret|Füzuli.secret]] 
+
+### #is_/same_as :: [Füzuli](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.md) 
+
+### #is_/same_as :: [Füzuli.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.public.md) 
+
+### #is_/same_as :: [Füzuli.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.internal.md) 
+
+### #is_/same_as :: [Füzuli.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.protect.md) 
+
+### #is_/same_as :: [Füzuli.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.private.md) 
+
+### #is_/same_as :: [Füzuli.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.personal.md) 
+
+### #is_/same_as :: [Füzuli.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Füzuli.secret.md)
 

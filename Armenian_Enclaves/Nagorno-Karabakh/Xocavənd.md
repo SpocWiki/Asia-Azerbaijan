@@ -40,11 +40,18 @@ markerFolder: ./Xocavənd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd|Xocavənd]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.public|Xocavənd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.internal|Xocavənd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.protect|Xocavənd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.private|Xocavənd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.personal|Xocavənd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocavənd.secret|Xocavənd.secret]] 
+
+### #is_/same_as :: [Xocavənd](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.md) 
+
+### #is_/same_as :: [Xocavənd.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.public.md) 
+
+### #is_/same_as :: [Xocavənd.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.internal.md) 
+
+### #is_/same_as :: [Xocavənd.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.protect.md) 
+
+### #is_/same_as :: [Xocavənd.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.private.md) 
+
+### #is_/same_as :: [Xocavənd.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.personal.md) 
+
+### #is_/same_as :: [Xocavənd.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocavənd.secret.md)
 

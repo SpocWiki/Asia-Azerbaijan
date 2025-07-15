@@ -40,11 +40,18 @@ markerFolder: ./Xanlar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar|Xanlar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.public|Xanlar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.internal|Xanlar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.protect|Xanlar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.private|Xanlar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.personal|Xanlar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xanlar.secret|Xanlar.secret]] 
+
+### #is_/same_as :: [Xanlar](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.md) 
+
+### #is_/same_as :: [Xanlar.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.public.md) 
+
+### #is_/same_as :: [Xanlar.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.internal.md) 
+
+### #is_/same_as :: [Xanlar.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.protect.md) 
+
+### #is_/same_as :: [Xanlar.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.private.md) 
+
+### #is_/same_as :: [Xanlar.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.personal.md) 
+
+### #is_/same_as :: [Xanlar.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Xanlar.secret.md)
 

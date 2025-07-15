@@ -40,11 +40,18 @@ markerFolder: ./Bərdə/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə|Bərdə]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə.public|Bərdə.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə.internal|Bərdə.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə.protect|Bərdə.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə.private|Bərdə.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə.personal|Bərdə.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bərdə.secret|Bərdə.secret]] 
+
+### #is_/same_as :: [Bərdə](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.md) 
+
+### #is_/same_as :: [Bərdə.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.public.md) 
+
+### #is_/same_as :: [Bərdə.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.internal.md) 
+
+### #is_/same_as :: [Bərdə.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.protect.md) 
+
+### #is_/same_as :: [Bərdə.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.private.md) 
+
+### #is_/same_as :: [Bərdə.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.personal.md) 
+
+### #is_/same_as :: [Bərdə.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Bərdə.secret.md)
 

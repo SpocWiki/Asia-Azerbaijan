@@ -40,11 +40,18 @@ markerFolder: ./Kəlbəcər/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər|Kəlbəcər]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.public|Kəlbəcər.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.internal|Kəlbəcər.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.protect|Kəlbəcər.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.private|Kəlbəcər.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.personal|Kəlbəcər.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Kəlbəcər.secret|Kəlbəcər.secret]] 
+
+### #is_/same_as :: [Kəlbəcər](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.md) 
+
+### #is_/same_as :: [Kəlbəcər.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.public.md) 
+
+### #is_/same_as :: [Kəlbəcər.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.internal.md) 
+
+### #is_/same_as :: [Kəlbəcər.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.protect.md) 
+
+### #is_/same_as :: [Kəlbəcər.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.private.md) 
+
+### #is_/same_as :: [Kəlbəcər.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.personal.md) 
+
+### #is_/same_as :: [Kəlbəcər.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Kəlbəcər.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Astara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara|Astara]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara.public|Astara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara.internal|Astara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara.protect|Astara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara.private|Astara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara.personal|Astara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Astara.secret|Astara.secret]] 
+
+### #is_/same_as :: [Astara](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.md) 
+
+### #is_/same_as :: [Astara.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.public.md) 
+
+### #is_/same_as :: [Astara.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.internal.md) 
+
+### #is_/same_as :: [Astara.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.protect.md) 
+
+### #is_/same_as :: [Astara.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.private.md) 
+
+### #is_/same_as :: [Astara.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.personal.md) 
+
+### #is_/same_as :: [Astara.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Astara.secret.md)
 

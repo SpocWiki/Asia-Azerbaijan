@@ -40,11 +40,18 @@ markerFolder: ./Yardımlı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı|Yardımlı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı.public|Yardımlı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı.internal|Yardımlı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı.protect|Yardımlı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı.private|Yardımlı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı.personal|Yardımlı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Yardımlı.secret|Yardımlı.secret]] 
+
+### #is_/same_as :: [Yardımlı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.md) 
+
+### #is_/same_as :: [Yardımlı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.public.md) 
+
+### #is_/same_as :: [Yardımlı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.internal.md) 
+
+### #is_/same_as :: [Yardımlı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.protect.md) 
+
+### #is_/same_as :: [Yardımlı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.private.md) 
+
+### #is_/same_as :: [Yardımlı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.personal.md) 
+
+### #is_/same_as :: [Yardımlı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Yardımlı.secret.md)
 

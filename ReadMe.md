@@ -133,11 +133,4 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 
 
-## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan|Azerbaijan]] 
-- [[../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan.public|Azerbaijan.public]] 
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan.internal|Azerbaijan.internal]] 
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan.protect|Azerbaijan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan.private|Azerbaijan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan.personal|Azerbaijan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan.secret|Azerbaijan.secret]] 
+

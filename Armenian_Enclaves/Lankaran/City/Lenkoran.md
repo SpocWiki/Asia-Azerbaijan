@@ -1,4 +1,4 @@
-﻿---
+---
 location: [38.77,48.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Lenkoran|Lenkoran]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Lenkoran.public|Lenkoran.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Lenkoran.internal|Lenkoran.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Lenkoran.protect|Lenkoran.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Lenkoran.private|Lenkoran.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Lenkoran.personal|Lenkoran.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Lenkoran.secret|Lenkoran.secret]] 
+
+### #is_/same_as :: [Lenkoran](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.md) 
+
+### #is_/same_as :: [Lenkoran.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.public.md) 
+
+### #is_/same_as :: [Lenkoran.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.internal.md) 
+
+### #is_/same_as :: [Lenkoran.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.protect.md) 
+
+### #is_/same_as :: [Lenkoran.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.private.md) 
+
+### #is_/same_as :: [Lenkoran.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.personal.md) 
+
+### #is_/same_as :: [Lenkoran.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.secret.md)
+

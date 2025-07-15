@@ -40,11 +40,18 @@ markerFolder: ./Ordubad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad|Ordubad]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.public|Ordubad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.internal|Ordubad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.protect|Ordubad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.private|Ordubad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.personal|Ordubad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ordubad.secret|Ordubad.secret]] 
+
+### #is_/same_as :: [Ordubad](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.md) 
+
+### #is_/same_as :: [Ordubad.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.public.md) 
+
+### #is_/same_as :: [Ordubad.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.internal.md) 
+
+### #is_/same_as :: [Ordubad.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.protect.md) 
+
+### #is_/same_as :: [Ordubad.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.private.md) 
+
+### #is_/same_as :: [Ordubad.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.personal.md) 
+
+### #is_/same_as :: [Ordubad.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Ordubad.secret.md)
 

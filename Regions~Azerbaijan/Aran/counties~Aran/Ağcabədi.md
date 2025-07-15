@@ -40,11 +40,18 @@ markerFolder: ./Ağcabədi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi|Ağcabədi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.public|Ağcabədi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.internal|Ağcabədi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.protect|Ağcabədi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.private|Ağcabədi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.personal|Ağcabədi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağcabədi.secret|Ağcabədi.secret]] 
+
+### #is_/same_as :: [Ağcabədi](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.md) 
+
+### #is_/same_as :: [Ağcabədi.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.public.md) 
+
+### #is_/same_as :: [Ağcabədi.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.internal.md) 
+
+### #is_/same_as :: [Ağcabədi.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.protect.md) 
+
+### #is_/same_as :: [Ağcabədi.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.private.md) 
+
+### #is_/same_as :: [Ağcabədi.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.personal.md) 
+
+### #is_/same_as :: [Ağcabədi.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağcabədi.secret.md)
 

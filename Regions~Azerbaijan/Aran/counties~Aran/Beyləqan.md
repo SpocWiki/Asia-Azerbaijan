@@ -40,11 +40,18 @@ markerFolder: ./Beyləqan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan|Beyləqan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan.public|Beyləqan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan.internal|Beyləqan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan.protect|Beyləqan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan.private|Beyləqan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan.personal|Beyləqan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Beyləqan.secret|Beyləqan.secret]] 
+
+### #is_/same_as :: [Beyləqan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.md) 
+
+### #is_/same_as :: [Beyləqan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.public.md) 
+
+### #is_/same_as :: [Beyləqan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.internal.md) 
+
+### #is_/same_as :: [Beyləqan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.protect.md) 
+
+### #is_/same_as :: [Beyləqan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.private.md) 
+
+### #is_/same_as :: [Beyləqan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.personal.md) 
+
+### #is_/same_as :: [Beyləqan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Beyləqan.secret.md)
 

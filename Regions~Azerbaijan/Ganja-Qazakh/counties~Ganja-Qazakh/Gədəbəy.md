@@ -40,11 +40,18 @@ markerFolder: ./Gədəbəy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy|Gədəbəy]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.public|Gədəbəy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.internal|Gədəbəy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.protect|Gədəbəy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.private|Gədəbəy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.personal|Gədəbəy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Gədəbəy.secret|Gədəbəy.secret]] 
+
+### #is_/same_as :: [Gədəbəy](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.md) 
+
+### #is_/same_as :: [Gədəbəy.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.public.md) 
+
+### #is_/same_as :: [Gədəbəy.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.internal.md) 
+
+### #is_/same_as :: [Gədəbəy.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.protect.md) 
+
+### #is_/same_as :: [Gədəbəy.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.private.md) 
+
+### #is_/same_as :: [Gədəbəy.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.personal.md) 
+
+### #is_/same_as :: [Gədəbəy.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Ganja-Qazakh/counties~Ganja-Qazakh/Gədəbəy.secret.md)
 

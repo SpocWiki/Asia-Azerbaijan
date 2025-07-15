@@ -40,11 +40,18 @@ markerFolder: ./Şahbuz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz|Şahbuz]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz.public|Şahbuz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz.internal|Şahbuz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz.protect|Şahbuz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz.private|Şahbuz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz.personal|Şahbuz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şahbuz.secret|Şahbuz.secret]] 
+
+### #is_/same_as :: [Şahbuz](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.md) 
+
+### #is_/same_as :: [Şahbuz.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.public.md) 
+
+### #is_/same_as :: [Şahbuz.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.internal.md) 
+
+### #is_/same_as :: [Şahbuz.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.protect.md) 
+
+### #is_/same_as :: [Şahbuz.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.private.md) 
+
+### #is_/same_as :: [Şahbuz.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.personal.md) 
+
+### #is_/same_as :: [Şahbuz.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Şahbuz.secret.md)
 

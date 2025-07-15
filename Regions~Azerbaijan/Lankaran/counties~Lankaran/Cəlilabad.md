@@ -40,11 +40,18 @@ markerFolder: ./Cəlilabad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad|Cəlilabad]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad.public|Cəlilabad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad.internal|Cəlilabad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad.protect|Cəlilabad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad.private|Cəlilabad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad.personal|Cəlilabad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Cəlilabad.secret|Cəlilabad.secret]] 
+
+### #is_/same_as :: [Cəlilabad](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.md) 
+
+### #is_/same_as :: [Cəlilabad.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.public.md) 
+
+### #is_/same_as :: [Cəlilabad.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.internal.md) 
+
+### #is_/same_as :: [Cəlilabad.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.protect.md) 
+
+### #is_/same_as :: [Cəlilabad.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.private.md) 
+
+### #is_/same_as :: [Cəlilabad.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.personal.md) 
+
+### #is_/same_as :: [Cəlilabad.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Cəlilabad.secret.md)
 

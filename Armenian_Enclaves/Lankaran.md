@@ -40,11 +40,18 @@ markerFolder: ./Lankaran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran|Lankaran]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran.public|Lankaran.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran.internal|Lankaran.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran.protect|Lankaran.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran.private|Lankaran.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran.personal|Lankaran.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Lankaran.secret|Lankaran.secret]] 
+
+### #is_/same_as :: [Lankaran](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.md) 
+
+### #is_/same_as :: [Lankaran.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.public.md) 
+
+### #is_/same_as :: [Lankaran.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.internal.md) 
+
+### #is_/same_as :: [Lankaran.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.protect.md) 
+
+### #is_/same_as :: [Lankaran.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.private.md) 
+
+### #is_/same_as :: [Lankaran.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.personal.md) 
+
+### #is_/same_as :: [Lankaran.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran.secret.md)
 

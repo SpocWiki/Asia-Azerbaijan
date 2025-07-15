@@ -40,11 +40,18 @@ markerFolder: ./Xocalı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı|Xocalı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı.public|Xocalı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı.internal|Xocalı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı.protect|Xocalı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı.private|Xocalı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı.personal|Xocalı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xocalı.secret|Xocalı.secret]] 
+
+### #is_/same_as :: [Xocalı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.md) 
+
+### #is_/same_as :: [Xocalı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.public.md) 
+
+### #is_/same_as :: [Xocalı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.internal.md) 
+
+### #is_/same_as :: [Xocalı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.protect.md) 
+
+### #is_/same_as :: [Xocalı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.private.md) 
+
+### #is_/same_as :: [Xocalı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.personal.md) 
+
+### #is_/same_as :: [Xocalı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Xocalı.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Culfa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa|Culfa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.public|Culfa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.internal|Culfa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.protect|Culfa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.private|Culfa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.personal|Culfa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Culfa.secret|Culfa.secret]] 
+
+### #is_/same_as :: [Culfa](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.md) 
+
+### #is_/same_as :: [Culfa.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.public.md) 
+
+### #is_/same_as :: [Culfa.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.internal.md) 
+
+### #is_/same_as :: [Culfa.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.protect.md) 
+
+### #is_/same_as :: [Culfa.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.private.md) 
+
+### #is_/same_as :: [Culfa.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.personal.md) 
+
+### #is_/same_as :: [Culfa.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Culfa.secret.md)
 

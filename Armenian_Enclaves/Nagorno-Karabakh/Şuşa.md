@@ -40,11 +40,18 @@ markerFolder: ./Şuşa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa|Şuşa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa.public|Şuşa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa.internal|Şuşa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa.protect|Şuşa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa.private|Şuşa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa.personal|Şuşa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şuşa.secret|Şuşa.secret]] 
+
+### #is_/same_as :: [Şuşa](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.md) 
+
+### #is_/same_as :: [Şuşa.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.public.md) 
+
+### #is_/same_as :: [Şuşa.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.internal.md) 
+
+### #is_/same_as :: [Şuşa.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.protect.md) 
+
+### #is_/same_as :: [Şuşa.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.private.md) 
+
+### #is_/same_as :: [Şuşa.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.personal.md) 
+
+### #is_/same_as :: [Şuşa.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa.secret.md)
 

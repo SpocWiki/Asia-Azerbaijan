@@ -40,11 +40,18 @@ markerFolder: ./Hajigabul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul|Hajigabul]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul.public|Hajigabul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul.internal|Hajigabul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul.protect|Hajigabul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul.private|Hajigabul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul.personal|Hajigabul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Hajigabul.secret|Hajigabul.secret]] 
+
+### #is_/same_as :: [Hajigabul](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.md) 
+
+### #is_/same_as :: [Hajigabul.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.public.md) 
+
+### #is_/same_as :: [Hajigabul.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.internal.md) 
+
+### #is_/same_as :: [Hajigabul.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.protect.md) 
+
+### #is_/same_as :: [Hajigabul.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.private.md) 
+
+### #is_/same_as :: [Hajigabul.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.personal.md) 
+
+### #is_/same_as :: [Hajigabul.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Hajigabul.secret.md)
 

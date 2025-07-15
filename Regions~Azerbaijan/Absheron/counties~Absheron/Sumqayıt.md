@@ -40,11 +40,18 @@ markerFolder: ./Sumqayıt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt|Sumqayıt]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.public|Sumqayıt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.internal|Sumqayıt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.protect|Sumqayıt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.private|Sumqayıt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.personal|Sumqayıt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sumqayıt.secret|Sumqayıt.secret]] 
+
+### #is_/same_as :: [Sumqayıt](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.md) 
+
+### #is_/same_as :: [Sumqayıt.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.public.md) 
+
+### #is_/same_as :: [Sumqayıt.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.internal.md) 
+
+### #is_/same_as :: [Sumqayıt.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.protect.md) 
+
+### #is_/same_as :: [Sumqayıt.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.private.md) 
+
+### #is_/same_as :: [Sumqayıt.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.personal.md) 
+
+### #is_/same_as :: [Sumqayıt.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Sumqayıt.secret.md)
 

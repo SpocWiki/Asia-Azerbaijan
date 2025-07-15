@@ -40,11 +40,18 @@ markerFolder: ./Biləsuvar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar|Biləsuvar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar.public|Biləsuvar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar.internal|Biləsuvar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar.protect|Biləsuvar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar.private|Biləsuvar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar.personal|Biləsuvar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Biləsuvar.secret|Biləsuvar.secret]] 
+
+### #is_/same_as :: [Biləsuvar](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.md) 
+
+### #is_/same_as :: [Biləsuvar.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.public.md) 
+
+### #is_/same_as :: [Biləsuvar.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.internal.md) 
+
+### #is_/same_as :: [Biləsuvar.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.protect.md) 
+
+### #is_/same_as :: [Biləsuvar.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.private.md) 
+
+### #is_/same_as :: [Biləsuvar.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.personal.md) 
+
+### #is_/same_as :: [Biləsuvar.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Biləsuvar.secret.md)
 

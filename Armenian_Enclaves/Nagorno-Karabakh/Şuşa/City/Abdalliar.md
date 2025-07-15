@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.63,46.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Abdalliar|Abdalliar]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Abdalliar.public|Abdalliar.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Abdalliar.internal|Abdalliar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Abdalliar.protect|Abdalliar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Abdalliar.private|Abdalliar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Abdalliar.personal|Abdalliar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Abdalliar.secret|Abdalliar.secret]] 
+
+### #is_/same_as :: [Abdalliar](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.md) 
+
+### #is_/same_as :: [Abdalliar.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.public.md) 
+
+### #is_/same_as :: [Abdalliar.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.internal.md) 
+
+### #is_/same_as :: [Abdalliar.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.protect.md) 
+
+### #is_/same_as :: [Abdalliar.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.private.md) 
+
+### #is_/same_as :: [Abdalliar.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.personal.md) 
+
+### #is_/same_as :: [Abdalliar.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Nagorno-Karabakh/Şuşa/City/Abdalliar.secret.md)
+

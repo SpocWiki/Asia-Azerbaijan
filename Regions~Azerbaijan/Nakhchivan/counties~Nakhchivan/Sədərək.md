@@ -40,11 +40,18 @@ markerFolder: ./Sədərək/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək|Sədərək]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək.public|Sədərək.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək.internal|Sədərək.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək.protect|Sədərək.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək.private|Sədərək.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək.personal|Sədərək.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Sədərək.secret|Sədərək.secret]] 
+
+### #is_/same_as :: [Sədərək](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.md) 
+
+### #is_/same_as :: [Sədərək.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.public.md) 
+
+### #is_/same_as :: [Sədərək.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.internal.md) 
+
+### #is_/same_as :: [Sədərək.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.protect.md) 
+
+### #is_/same_as :: [Sədərək.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.private.md) 
+
+### #is_/same_as :: [Sədərək.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.personal.md) 
+
+### #is_/same_as :: [Sədərək.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Sədərək.secret.md)
 

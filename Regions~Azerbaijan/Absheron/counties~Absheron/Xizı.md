@@ -40,11 +40,18 @@ markerFolder: ./Xizı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı|Xizı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı.public|Xizı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı.internal|Xizı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı.protect|Xizı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı.private|Xizı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı.personal|Xizı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xizı.secret|Xizı.secret]] 
+
+### #is_/same_as :: [Xizı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.md) 
+
+### #is_/same_as :: [Xizı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.public.md) 
+
+### #is_/same_as :: [Xizı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.internal.md) 
+
+### #is_/same_as :: [Xizı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.protect.md) 
+
+### #is_/same_as :: [Xizı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.private.md) 
+
+### #is_/same_as :: [Xizı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.personal.md) 
+
+### #is_/same_as :: [Xizı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Xizı.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Bakı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı|Bakı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.public|Bakı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.internal|Bakı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.protect|Bakı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.private|Bakı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.personal|Bakı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Bakı.secret|Bakı.secret]] 
+
+### #is_/same_as :: [Bakı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.md) 
+
+### #is_/same_as :: [Bakı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.public.md) 
+
+### #is_/same_as :: [Bakı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.internal.md) 
+
+### #is_/same_as :: [Bakı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.protect.md) 
+
+### #is_/same_as :: [Bakı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.private.md) 
+
+### #is_/same_as :: [Bakı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.personal.md) 
+
+### #is_/same_as :: [Bakı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Absheron/counties~Absheron/Bakı.secret.md)
 

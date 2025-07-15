@@ -40,11 +40,18 @@ markerFolder: ./Mingəçevir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir|Mingəçevir]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.public|Mingəçevir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.internal|Mingəçevir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.protect|Mingəçevir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.private|Mingəçevir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.personal|Mingəçevir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Mingəçevir.secret|Mingəçevir.secret]] 
+
+### #is_/same_as :: [Mingəçevir](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.md) 
+
+### #is_/same_as :: [Mingəçevir.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.public.md) 
+
+### #is_/same_as :: [Mingəçevir.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.internal.md) 
+
+### #is_/same_as :: [Mingəçevir.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.protect.md) 
+
+### #is_/same_as :: [Mingəçevir.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.private.md) 
+
+### #is_/same_as :: [Mingəçevir.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.personal.md) 
+
+### #is_/same_as :: [Mingəçevir.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Mingəçevir.secret.md)
 

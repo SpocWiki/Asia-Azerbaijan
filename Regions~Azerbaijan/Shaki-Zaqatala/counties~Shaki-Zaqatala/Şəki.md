@@ -40,11 +40,18 @@ markerFolder: ./Şəki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki|Şəki]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki.public|Şəki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki.internal|Şəki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki.protect|Şəki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki.private|Şəki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki.personal|Şəki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Şəki.secret|Şəki.secret]] 
+
+### #is_/same_as :: [Şəki](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.md) 
+
+### #is_/same_as :: [Şəki.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.public.md) 
+
+### #is_/same_as :: [Şəki.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.internal.md) 
+
+### #is_/same_as :: [Şəki.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.protect.md) 
+
+### #is_/same_as :: [Şəki.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.private.md) 
+
+### #is_/same_as :: [Şəki.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.personal.md) 
+
+### #is_/same_as :: [Şəki.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Şəki.secret.md)
 

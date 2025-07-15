@@ -40,11 +40,18 @@ markerFolder: ./Naxçıvan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan|Naxçıvan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.public|Naxçıvan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.internal|Naxçıvan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.protect|Naxçıvan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.private|Naxçıvan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.personal|Naxçıvan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Naxçıvan.secret|Naxçıvan.secret]] 
+
+### #is_/same_as :: [Naxçıvan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.md) 
+
+### #is_/same_as :: [Naxçıvan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.public.md) 
+
+### #is_/same_as :: [Naxçıvan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.internal.md) 
+
+### #is_/same_as :: [Naxçıvan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.protect.md) 
+
+### #is_/same_as :: [Naxçıvan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.private.md) 
+
+### #is_/same_as :: [Naxçıvan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.personal.md) 
+
+### #is_/same_as :: [Naxçıvan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Nakhchivan/counties~Nakhchivan/Naxçıvan.secret.md)
 

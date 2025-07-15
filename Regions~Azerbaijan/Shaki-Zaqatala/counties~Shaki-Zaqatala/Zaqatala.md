@@ -40,11 +40,18 @@ markerFolder: ./Zaqatala/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala|Zaqatala]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala.public|Zaqatala.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala.internal|Zaqatala.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala.protect|Zaqatala.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala.private|Zaqatala.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala.personal|Zaqatala.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Zaqatala.secret|Zaqatala.secret]] 
+
+### #is_/same_as :: [Zaqatala](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.md) 
+
+### #is_/same_as :: [Zaqatala.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.public.md) 
+
+### #is_/same_as :: [Zaqatala.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.internal.md) 
+
+### #is_/same_as :: [Zaqatala.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.protect.md) 
+
+### #is_/same_as :: [Zaqatala.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.private.md) 
+
+### #is_/same_as :: [Zaqatala.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.personal.md) 
+
+### #is_/same_as :: [Zaqatala.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Zaqatala.secret.md)
 

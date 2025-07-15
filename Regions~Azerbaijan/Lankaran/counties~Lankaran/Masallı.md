@@ -40,11 +40,18 @@ markerFolder: ./Masallı/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı|Masallı]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı.public|Masallı.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı.internal|Masallı.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı.protect|Masallı.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı.private|Masallı.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı.personal|Masallı.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Masallı.secret|Masallı.secret]] 
+
+### #is_/same_as :: [Masallı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.md) 
+
+### #is_/same_as :: [Masallı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.public.md) 
+
+### #is_/same_as :: [Masallı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.internal.md) 
+
+### #is_/same_as :: [Masallı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.protect.md) 
+
+### #is_/same_as :: [Masallı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.private.md) 
+
+### #is_/same_as :: [Masallı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.personal.md) 
+
+### #is_/same_as :: [Masallı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Lankaran/counties~Lankaran/Masallı.secret.md)
 

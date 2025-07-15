@@ -40,11 +40,18 @@ markerFolder: ./Quba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba|Quba]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.public|Quba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.internal|Quba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.protect|Quba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.private|Quba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.personal|Quba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Quba.secret|Quba.secret]] 
+
+### #is_/same_as :: [Quba](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.md) 
+
+### #is_/same_as :: [Quba.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.public.md) 
+
+### #is_/same_as :: [Quba.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.internal.md) 
+
+### #is_/same_as :: [Quba.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.protect.md) 
+
+### #is_/same_as :: [Quba.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.private.md) 
+
+### #is_/same_as :: [Quba.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.personal.md) 
+
+### #is_/same_as :: [Quba.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.secret.md)
 

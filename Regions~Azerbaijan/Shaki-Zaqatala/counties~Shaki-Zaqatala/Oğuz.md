@@ -40,11 +40,18 @@ markerFolder: ./Oğuz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz|Oğuz]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz.public|Oğuz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz.internal|Oğuz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz.protect|Oğuz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz.private|Oğuz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz.personal|Oğuz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Oğuz.secret|Oğuz.secret]] 
+
+### #is_/same_as :: [Oğuz](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.md) 
+
+### #is_/same_as :: [Oğuz.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.public.md) 
+
+### #is_/same_as :: [Oğuz.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.internal.md) 
+
+### #is_/same_as :: [Oğuz.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.protect.md) 
+
+### #is_/same_as :: [Oğuz.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.private.md) 
+
+### #is_/same_as :: [Oğuz.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.personal.md) 
+
+### #is_/same_as :: [Oğuz.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.secret.md)
 

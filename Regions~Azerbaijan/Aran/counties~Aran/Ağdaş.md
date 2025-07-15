@@ -40,11 +40,18 @@ markerFolder: ./Ağdaş/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş|Ağdaş]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş.public|Ağdaş.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş.internal|Ağdaş.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş.protect|Ağdaş.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş.private|Ağdaş.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş.personal|Ağdaş.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Ağdaş.secret|Ağdaş.secret]] 
+
+### #is_/same_as :: [Ağdaş](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.md) 
+
+### #is_/same_as :: [Ağdaş.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.public.md) 
+
+### #is_/same_as :: [Ağdaş.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.internal.md) 
+
+### #is_/same_as :: [Ağdaş.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.protect.md) 
+
+### #is_/same_as :: [Ağdaş.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.private.md) 
+
+### #is_/same_as :: [Ağdaş.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.personal.md) 
+
+### #is_/same_as :: [Ağdaş.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Aran/counties~Aran/Ağdaş.secret.md)
 

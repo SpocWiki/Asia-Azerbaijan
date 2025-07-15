@@ -40,11 +40,18 @@ markerFolder: ./Qusar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar|Qusar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar.public|Qusar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar.internal|Qusar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar.protect|Qusar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar.private|Qusar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar.personal|Qusar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Qusar.secret|Qusar.secret]] 
+
+### #is_/same_as :: [Qusar](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.md) 
+
+### #is_/same_as :: [Qusar.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.public.md) 
+
+### #is_/same_as :: [Qusar.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.internal.md) 
+
+### #is_/same_as :: [Qusar.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.protect.md) 
+
+### #is_/same_as :: [Qusar.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.private.md) 
+
+### #is_/same_as :: [Qusar.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.personal.md) 
+
+### #is_/same_as :: [Qusar.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Qusar.secret.md)
 

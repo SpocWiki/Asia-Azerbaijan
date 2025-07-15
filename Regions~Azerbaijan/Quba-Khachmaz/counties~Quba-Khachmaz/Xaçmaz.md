@@ -40,11 +40,18 @@ markerFolder: ./Xaçmaz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz|Xaçmaz]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz.public|Xaçmaz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz.internal|Xaçmaz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz.protect|Xaçmaz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz.private|Xaçmaz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz.personal|Xaçmaz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~West/Azerbaijan/Counties/Xaçmaz.secret|Xaçmaz.secret]] 
+
+### #is_/same_as :: [Xaçmaz](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.md) 
+
+### #is_/same_as :: [Xaçmaz.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.public.md) 
+
+### #is_/same_as :: [Xaçmaz.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.internal.md) 
+
+### #is_/same_as :: [Xaçmaz.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.protect.md) 
+
+### #is_/same_as :: [Xaçmaz.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.private.md) 
+
+### #is_/same_as :: [Xaçmaz.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.personal.md) 
+
+### #is_/same_as :: [Xaçmaz.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Xaçmaz.secret.md)
 
