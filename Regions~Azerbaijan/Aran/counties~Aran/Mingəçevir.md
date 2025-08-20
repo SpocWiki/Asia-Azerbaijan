@@ -1,30 +1,29 @@
 ---
-location: [ 40.76 , 46.99 ] 
+location:
+  - 40.76
+  - 46.99
 type: geo-Region
 title: Mingəçevir
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Mingəçevir
-
+  - Mingəçevir
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Mingəçevir
