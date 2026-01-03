@@ -40,17 +40,17 @@ markerFolder: ./Oğuz/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oğuz](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz|Oğuz]] 
 
-### #is_/same_as :: [Oğuz.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.public|Oğuz.public]] 
 
-### #is_/same_as :: [Oğuz.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.internal|Oğuz.internal]] 
 
-### #is_/same_as :: [Oğuz.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.protect|Oğuz.protect]] 
 
-### #is_/same_as :: [Oğuz.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.private|Oğuz.private]] 
 
-### #is_/same_as :: [Oğuz.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.personal|Oğuz.personal]] 
 
-### #is_/same_as :: [Oğuz.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Shaki-Zaqatala/counties~Shaki-Zaqatala/Oğuz.secret|Oğuz.secret]] 
 

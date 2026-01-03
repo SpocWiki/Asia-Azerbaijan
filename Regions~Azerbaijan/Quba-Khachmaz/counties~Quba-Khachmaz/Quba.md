@@ -40,17 +40,17 @@ markerFolder: ./Quba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quba](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba|Quba]] 
 
-### #is_/same_as :: [Quba.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.public|Quba.public]] 
 
-### #is_/same_as :: [Quba.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.internal|Quba.internal]] 
 
-### #is_/same_as :: [Quba.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.protect|Quba.protect]] 
 
-### #is_/same_as :: [Quba.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.private|Quba.private]] 
 
-### #is_/same_as :: [Quba.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.personal|Quba.personal]] 
 
-### #is_/same_as :: [Quba.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Quba-Khachmaz/counties~Quba-Khachmaz/Quba.secret|Quba.secret]] 
 

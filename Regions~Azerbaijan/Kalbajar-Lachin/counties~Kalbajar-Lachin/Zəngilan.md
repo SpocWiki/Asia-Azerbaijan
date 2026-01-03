@@ -40,17 +40,17 @@ markerFolder: ./Zəngilan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zəngilan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan|Zəngilan]] 
 
-### #is_/same_as :: [Zəngilan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.public|Zəngilan.public]] 
 
-### #is_/same_as :: [Zəngilan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.internal|Zəngilan.internal]] 
 
-### #is_/same_as :: [Zəngilan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.protect|Zəngilan.protect]] 
 
-### #is_/same_as :: [Zəngilan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.private|Zəngilan.private]] 
 
-### #is_/same_as :: [Zəngilan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.personal|Zəngilan.personal]] 
 
-### #is_/same_as :: [Zəngilan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Zəngilan.secret|Zəngilan.secret]] 
 

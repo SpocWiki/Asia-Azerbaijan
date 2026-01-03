@@ -40,17 +40,17 @@ markerFolder: ./Qubadli/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qubadli](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli|Qubadli]] 
 
-### #is_/same_as :: [Qubadli.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.public|Qubadli.public]] 
 
-### #is_/same_as :: [Qubadli.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.internal|Qubadli.internal]] 
 
-### #is_/same_as :: [Qubadli.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.protect|Qubadli.protect]] 
 
-### #is_/same_as :: [Qubadli.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.private|Qubadli.private]] 
 
-### #is_/same_as :: [Qubadli.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.personal|Qubadli.personal]] 
 
-### #is_/same_as :: [Qubadli.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Kalbajar-Lachin/counties~Kalbajar-Lachin/Qubadli.secret|Qubadli.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khankendy](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy|Khankendy]] 
 
-### #is_/same_as :: [Khankendy.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.public|Khankendy.public]] 
 
-### #is_/same_as :: [Khankendy.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.internal|Khankendy.internal]] 
 
-### #is_/same_as :: [Khankendy.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.protect|Khankendy.protect]] 
 
-### #is_/same_as :: [Khankendy.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.private|Khankendy.private]] 
 
-### #is_/same_as :: [Khankendy.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.personal|Khankendy.personal]] 
 
-### #is_/same_as :: [Khankendy.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert/City/Khankendy.secret|Khankendy.secret]] 
 

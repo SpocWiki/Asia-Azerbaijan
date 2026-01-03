@@ -40,17 +40,17 @@ markerFolder: ./Şamaxı/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Şamaxı](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı|Şamaxı]] 
 
-### #is_/same_as :: [Şamaxı.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.public|Şamaxı.public]] 
 
-### #is_/same_as :: [Şamaxı.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.internal|Şamaxı.internal]] 
 
-### #is_/same_as :: [Şamaxı.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.protect|Şamaxı.protect]] 
 
-### #is_/same_as :: [Şamaxı.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.private|Şamaxı.private]] 
 
-### #is_/same_as :: [Şamaxı.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.personal|Şamaxı.personal]] 
 
-### #is_/same_as :: [Şamaxı.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Şamaxı.secret|Şamaxı.secret]] 
 

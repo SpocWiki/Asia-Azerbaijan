@@ -40,17 +40,17 @@ markerFolder: ./Kangarli/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kangarli](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli|Kangarli]] 
 
-### #is_/same_as :: [Kangarli.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.public|Kangarli.public]] 
 
-### #is_/same_as :: [Kangarli.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.internal|Kangarli.internal]] 
 
-### #is_/same_as :: [Kangarli.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.protect|Kangarli.protect]] 
 
-### #is_/same_as :: [Kangarli.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.private|Kangarli.private]] 
 
-### #is_/same_as :: [Kangarli.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.personal|Kangarli.personal]] 
 
-### #is_/same_as :: [Kangarli.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Kangarli.secret|Kangarli.secret]] 
 

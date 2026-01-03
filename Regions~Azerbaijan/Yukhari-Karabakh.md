@@ -30,20 +30,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yukhari-Karabakh](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh|Yukhari-Karabakh]] 
 
-### #is_/same_as :: [Yukhari-Karabakh.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.public|Yukhari-Karabakh.public]] 
 
-### #is_/same_as :: [Yukhari-Karabakh.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.internal|Yukhari-Karabakh.internal]] 
 
-### #is_/same_as :: [Yukhari-Karabakh.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.protect|Yukhari-Karabakh.protect]] 
 
-### #is_/same_as :: [Yukhari-Karabakh.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.private|Yukhari-Karabakh.private]] 
 
-### #is_/same_as :: [Yukhari-Karabakh.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.personal|Yukhari-Karabakh.personal]] 
 
-### #is_/same_as :: [Yukhari-Karabakh.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh.secret|Yukhari-Karabakh.secret]] 
 

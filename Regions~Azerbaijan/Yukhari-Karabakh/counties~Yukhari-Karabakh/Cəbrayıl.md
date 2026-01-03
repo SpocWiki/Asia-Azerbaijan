@@ -40,17 +40,17 @@ markerFolder: ./Cəbrayıl/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cəbrayıl](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl|Cəbrayıl]] 
 
-### #is_/same_as :: [Cəbrayıl.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.public|Cəbrayıl.public]] 
 
-### #is_/same_as :: [Cəbrayıl.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.internal|Cəbrayıl.internal]] 
 
-### #is_/same_as :: [Cəbrayıl.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.protect|Cəbrayıl.protect]] 
 
-### #is_/same_as :: [Cəbrayıl.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.private|Cəbrayıl.private]] 
 
-### #is_/same_as :: [Cəbrayıl.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.personal|Cəbrayıl.personal]] 
 
-### #is_/same_as :: [Cəbrayıl.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Yukhari-Karabakh/counties~Yukhari-Karabakh/Cəbrayıl.secret|Cəbrayıl.secret]] 
 

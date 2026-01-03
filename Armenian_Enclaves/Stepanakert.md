@@ -40,17 +40,17 @@ markerFolder: ./Stepanakert/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stepanakert](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert|Stepanakert]] 
 
-### #is_/same_as :: [Stepanakert.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.public|Stepanakert.public]] 
 
-### #is_/same_as :: [Stepanakert.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.internal|Stepanakert.internal]] 
 
-### #is_/same_as :: [Stepanakert.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.protect|Stepanakert.protect]] 
 
-### #is_/same_as :: [Stepanakert.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.private|Stepanakert.private]] 
 
-### #is_/same_as :: [Stepanakert.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.personal|Stepanakert.personal]] 
 
-### #is_/same_as :: [Stepanakert.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Stepanakert.secret|Stepanakert.secret]] 
 

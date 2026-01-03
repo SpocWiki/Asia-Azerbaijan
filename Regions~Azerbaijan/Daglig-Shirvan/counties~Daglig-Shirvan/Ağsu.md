@@ -40,17 +40,17 @@ markerFolder: ./Ağsu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ağsu](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu|Ağsu]] 
 
-### #is_/same_as :: [Ağsu.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.public|Ağsu.public]] 
 
-### #is_/same_as :: [Ağsu.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.internal|Ağsu.internal]] 
 
-### #is_/same_as :: [Ağsu.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.protect|Ağsu.protect]] 
 
-### #is_/same_as :: [Ağsu.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.private|Ağsu.private]] 
 
-### #is_/same_as :: [Ağsu.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.personal|Ağsu.personal]] 
 
-### #is_/same_as :: [Ağsu.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Regions~Azerbaijan/Daglig-Shirvan/counties~Daglig-Shirvan/Ağsu.secret|Ağsu.secret]] 
 

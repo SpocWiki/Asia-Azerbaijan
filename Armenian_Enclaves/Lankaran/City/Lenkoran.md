@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lenkoran](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran|Lenkoran]] 
 
-### #is_/same_as :: [Lenkoran.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.public|Lenkoran.public]] 
 
-### #is_/same_as :: [Lenkoran.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.internal|Lenkoran.internal]] 
 
-### #is_/same_as :: [Lenkoran.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.protect|Lenkoran.protect]] 
 
-### #is_/same_as :: [Lenkoran.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.private|Lenkoran.private]] 
 
-### #is_/same_as :: [Lenkoran.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.personal|Lenkoran.personal]] 
 
-### #is_/same_as :: [Lenkoran.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan/Armenian_Enclaves/Lankaran/City/Lenkoran.secret|Lenkoran.secret]] 
 
