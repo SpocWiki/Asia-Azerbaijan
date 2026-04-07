@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q188328
-subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Azerbaijan,11032557]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Azerbaijan,227]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Azerbaijan,11032557|WD~Template_History_of_Azerbaijan,11032557]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iran%201748.jpg
 Commons_category: History of Azerbaijan
 ---

@@ -23,7 +23,7 @@ aliases:
 [geo-lat::40.42] 
 [name::Baku] 
 State ::  
-Country :: [[../../../../Azerbaijan]]  
+Country :: [[../../../../Azerbaijan|Azerbaijan]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

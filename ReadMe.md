@@ -119,7 +119,7 @@ markerFolder: ./
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::AZ] 
-Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]  
+Capital :: [[Azerbaijan/Counties/Bakı/City/Baku|Baku]]  
 
 ![[Azerbaijan/Emblem_of_Azerbaijan.svg|350]] 
 
