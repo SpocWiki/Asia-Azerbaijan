@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Şərur/
 markerFolder: ./Şərur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

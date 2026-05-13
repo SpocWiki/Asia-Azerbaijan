@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Quba/
 markerFolder: ./Quba/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

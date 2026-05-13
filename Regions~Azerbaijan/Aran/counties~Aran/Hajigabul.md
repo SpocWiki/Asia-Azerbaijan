@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hajigabul/
 markerFolder: ./Hajigabul/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

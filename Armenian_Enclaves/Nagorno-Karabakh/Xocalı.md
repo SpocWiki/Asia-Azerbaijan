@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Xocalı/
 markerFolder: ./Xocalı/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

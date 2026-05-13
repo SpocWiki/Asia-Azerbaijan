@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tərtər/
 markerFolder: ./Tərtər/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
