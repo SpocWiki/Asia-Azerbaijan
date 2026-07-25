@@ -574,7 +574,7 @@ dv_UNTERM_Chinese_Formal: 阿塞拜疆共和国
 dv_UNTERM_French_Formal: la République d'Azerbaïdjan
 dv_UNTERM_Russian: Азербайджан
 dv_UNTERM_Russian_Formal: Азербайджанская Республика
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Azerbaijan]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -600,7 +600,7 @@ dv_ISO2: AZ
 dv_ISO3: AZE
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+  - '[[../../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]'
   - '[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]'
@@ -611,17 +611,17 @@ dv_is_:
 dv_has_name_de: Aserbaidshan
 dv_Area-Total: 86600
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: AZ
-dv_Capital: '[[Azerbaijan/Counties/Bakı/City/Baku|Baku]]'
+dv_Capital: '[[Counties/Bakı/City/Baku|Baku]]'
 dv_Alcohol-l: 10.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 49.83
 dv_has_place_latitude: 40.42
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Azerbaijan
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[../../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]'
 - '[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]'
@@ -639,7 +639,7 @@ Unicode_character: 🇦🇿
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Azerbaijan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -727,7 +727,7 @@ markerFile: [[Azerbaijan]]
 
 ```leaflet
 id: Azerbaijan_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -753,11 +753,11 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 
-![[Azerbaijan/Emblem_of_Azerbaijan.svg|350]]
+![[Emblem_of_Azerbaijan.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Azerbaijan.mp3|Anthem-Azerbaijan.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Azerbaijan.mp3|Anthem-Azerbaijan.mp3]]
 
-![[Azerbaijan/Flag_of_Azerbaijan.svg|350]]
+![[Flag_of_Azerbaijan.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
